@@ -8,6 +8,9 @@ To Build
 	cd src/
 	make -f makefile.unix		# Headless bitcoin
 
+On Ubintu 12.04.3
+needed run autotool.sh from twister-core/libtorrent
+
 See [readme-qt.md](readme-qt.md) for instructions on building Bitcoin-Qt, the graphical user interface.
 
 Dependencies
